@@ -14,7 +14,7 @@ Asegúrate de tener instalado Node.js en tu sistema. Puedes descargarlo desde [n
 
 ```bash
 git clone <URL_del_repositorio>
-cd proyecto-crm-json-server
+cd "nombre de la carpeta/proyecto ejemplo : CRM-JsonServer-CRUD-REST"
 ```
 
 2. Instala las dependncias del proyecto
