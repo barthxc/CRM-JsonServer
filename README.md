@@ -1,6 +1,6 @@
 # Documentación del Proyecto CRM con JSON Server
 
-Documentación de la práctica de un proyecto usando JSON Server y funciones asíncronas
+Documentación de la práctica de un proyecto usando JSON Server, CRUD y funciones asíncronas
 
 Esta documentación proporciona información detallada sobre el proyecto de CRM basado en JSON Server. Aquí, aprenderás cómo desplegar el servidor JSON y cómo funciona la aplicación.
 
